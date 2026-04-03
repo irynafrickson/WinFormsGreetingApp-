@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="WinFormsTestApp/WinFormsTestApp.csproj" />
+  <Project Path="WinFormsUnitTestApp/WinFormsUnitTestApp.csproj" Id="47821359-4b74-4f6f-ae9b-6111a76fde64" />
+</Solution>
